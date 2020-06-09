@@ -1,0 +1,8 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+Conceptos:
+
+Variables: Son pedazos de memoria que el programa utiliza para guardar información
+Strings: Es uno de los tipos de datos utilizados por javascript. Son las cadenas de caracteres
+Funciones (argumentos, return): Las funciones son métodos que devuelven un valor. Pueden o no tener argumentos, y el return sirve para devolver un valor. Si aparece un return automaticamente se termina la función, no importa lo que haya abajo.
+Declaraciones if: Son sentencias condicionales. Establecen un camino a seguir, si pasa una cosa, se hace algo, sino pasa, no se hace nada, por ejemplo.
+Valores booleanos (true, false): Los valores booleanos son un tipo de dato que puede tomar solo dos valores, verdadero y falso.
