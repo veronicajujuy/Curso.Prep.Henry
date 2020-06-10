@@ -1,0 +1,15 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for
+&&, ||, !
+
+For: Es una estructura repetitiva cuya cantidad de iteraciones ya esta especificada desde el inicio
+tiene la forma 
+For (var i=1; i<= numero; i++)
+
+Donde se define la variable que irá iterandose, luego una condición de terminación de la estructura repetitiva y luego la forma de iteración de la variable, en este caso suma 1 a la variable i.
+
+&&: es el operador lógico Y o and, y verifica el valor de verdad de los operadores que se encuentran a los lados. Si ambos son Verdaderos la sentencia será verdadera, si alguno de los operadores son falso, la sentencia será falsa.
+
+||: es el operador lógico o u OR, y verifica el valor de verdad de los operadores que se encuentran a los lados. Si ambos son falsos, la sentencia que contiene el O será falsa de lo contrario será verdadera.
+
+! es el operador negación. si ponemos !false tendrá un valor verdadero, y cualquier otro valor de verdad precedido por el operador ! cambiará su valor de verdad.
