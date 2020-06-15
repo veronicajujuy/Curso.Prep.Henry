@@ -1,0 +1,13 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: los objetos son tipos de datos que se asemejan a los arrays. La diferencia es que tienen propiedades que pueden adquirir diferentes valores. Tambien pueden contener diferentes tipos de datos, incluyendo arrays, otros objetos o funciones.
+
+Propiedades: Las propiedades son cada uno de los elementos que posee un objeto
+Métodos: los métodos son las funciones definidas dentro de un objeto
+Bucle for…in: el bucle for in es un tipo de bucle que recorre las propiedades de un objeto
+ejemplo: 
+for (const propiedad in usuario) {
+  console.log(propiedad +':' +usuario[propiedad]);
+}
+Notación de puntos vs notación de corchetes
+La notacion de puntos o dot notation es una manera de mostrar o trabajar con las propiedades y metodos de los objetos. Si se usa corchetes se asemeja al uso de los arrays, sin embargo las propiedades deben ir con comillas, dado que son strings.
