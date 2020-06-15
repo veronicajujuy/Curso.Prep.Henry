@@ -1,0 +1,8 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Arrays
+
+Un array es una coleccion ordenada de datos
+Particularmente en Javascript el array puede componerse de cualquier tipo de dato, incluyendo enteros, caracteres, cadenas de caracteres, booleanos, indefinidos y hasta de otros strings.
+Se accede a cada elemento con un subindice.
+Cada elemento string es a su vez un array.
